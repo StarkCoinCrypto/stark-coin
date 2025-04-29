@@ -1,0 +1,5 @@
+├── contracts/         # Smart contracts (Solidity)
+├── scripts/           # Deployment and migration scripts
+├── test/              # Hardhat + Chai tests
+├── hardhat.config.js  # Network & compiler configuration
+└── README.md          # Project overview
